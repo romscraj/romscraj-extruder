@@ -1,0 +1,13 @@
+- Assembly Instructions, which include the RP parts BOM as well as the non-RP parts BOM can be found in the download section: https://github.com/romscraj/romscraj-extruder/downloads
+
+- Refer to heater-block.jpg, hot-end-nozzle.jpg, slidemount-plate.jpg and insulator-barrel.jpg for dimension drawings for the hot-end components that require machining.
+
+- Sketchup .skp design files can be found in the 'SKP-files' folder.
+
+- If you need any specific part that is difficult to source (and you do not wish to modify the design to accomodate alternatives), our romscraj store has portabee specific parts that you can purchase (if you don't see the part that you need, drop us an email at romscraj@orangeknob.com):
+http://romscraj.com/carttoo/
+
+You can also refer to the RepRap Buyers' Guide which is a good compilation of sources from which you can consider to obtain your parts from:
+http://reprap.org/wiki/RepRap_Buyers'_Guide
+
+- Happy building!
